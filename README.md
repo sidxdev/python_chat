@@ -11,6 +11,7 @@ This is a project we made in college. Different versions signify different funct
 
 Project made and running on Win8 64-bit
 Dependancies to run the project are as required:
+
 1. Python 2.7 32-bit (https://www.python.org/ftp/python/2.7.6/python-2.7.6.msi)
 
 2. pyaudio-0.2.7.py27 (http://people.csail.mit.edu/hubert/pyaudio/packages/)
