@@ -19,3 +19,5 @@ Dependancies to run the project are as required:
 3. pygame-1.9.1.win32-py2.7 (http://www.pygame.org/download.shtml)
 
 4. pywin32-216.win32-py2.7 (http://sourceforge.net/projects/pywin32/files/pywin32/Build216/)
+
+5. VideoCapture-0.9-5 (http://videocapture.sourceforge.net/)
